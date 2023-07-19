@@ -4,12 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "ts-node app.ts"
+    "start": "ts-node first.ts"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "http": "^0.0.1-security",
     "ts-node": "^10.9.1",
     "tsc": "^2.0.4",
     "typescript": "^5.1.6"
